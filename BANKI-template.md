@@ -891,6 +891,44 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 
+Interview questions I heard of from others. 
+The questions:
+*(Questions in bold are ones I didn't know or didn't have a great answer for.)
+
+JavaScript
+What are the different types of variables in JS? How are they different from each other?
+What are some different ways to create an object in JS?
+How can you get the type of a variable in JS?
+Can you tell me the difference between == and ===?
+Do you know what arrow functions are? How are they different from traditional functions?
+(I said I had read about this (true) but couldn't remember off the top of my head.)
+What can you tell me about 'callbacks?'
+TypeScript
+What are some features of TypeScript that JS doesn't have?
+What are some disadvantages of TypeScript?
+What can you tell me about access modifiers?
+(I said I didn't know what they were and asked if he could tell me. He gave an example, 'private,' which I had seen before. I said 'Oh ok, like public and private functions. I haven't used them yet, but I imagine private functions are meant to be restricted from any user access or modification, which he said was more or less correct.)
+React
+Why do we say, 'Everything is a component' in React?
+What are some advantages of using React?
+What can you tell me about JSX?
+What's the difference between 'state' and 'props?'
+What is the difference between a 'stateful component' and a 'stateless component?'
+What is the difference between DOM and Virtual DOM in React?
+What is React Router, and why would you use it?
+What are 'events' in React? How are they different from events in JS?
+What is a 'higher order component?'
+What are 'mixins' in React?
+(Didn't know. I said I know what they are in SASS, so he asked me to tell him about mixins in SASS)
+Have you used Redux? What can you tell me about it?
+(My answer was that I am just learning about it now (true), and that it uses 'actions' and 'dispatch' functions instead of hooks for updating state)
+Databases
+What can you tell me about different kinds of databases?
+What experience do you have with different databases?
+Backend
+What experience do you have with backend languages, like Node?
+(My answer was 'Not too much yet, just a little with Node, but I'm really interested in learning as much as I can because I find the full stack really fascinating.')
+
 ## Questions to ask your interviewer
 
 1. How does Bob’s Burgers measure the success of their engineers?
